@@ -57,6 +57,6 @@ Future stock price predictions.
 🤝 Contributors
 Baishnab Charan Behera
 University - Kalinga Institute of Industry Technology
-📧 Contact: baishnab.behera@example.com
+📧 Contact: baishnab.behera@gmail.com
 
 
